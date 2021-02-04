@@ -5,10 +5,10 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: white;
+    background-color: black;
     color: #51DCA3;
 }
 
 h1{
-    color: #163980;
+    color: yellow;
 }
